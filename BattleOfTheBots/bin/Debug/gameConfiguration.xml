@@ -30,4 +30,10 @@
     <Dynamite>75</Dynamite>
     <Include>false</Include>
   </GameConfigTable>
+  <GameConfigTable>
+    <MaxRounds>50</MaxRounds>
+    <TotalPoints>25</TotalPoints>
+    <Dynamite>0</Dynamite>
+    <Include>false</Include>
+  </GameConfigTable>
 </NewDataSet>

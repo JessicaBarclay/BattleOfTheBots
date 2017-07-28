@@ -1,1 +1,6 @@
 C:\Users\littleds\Documents\Visual Studio 2013\Projects\BotExample\BotExample\bin\Debug\BotExample.exe.config
+C:\Users\barclajx\BeatBots\Jnr\BotExample\bin\Debug\BotExample.exe.config
+C:\Users\barclajx\BeatBots\Jnr\BotExample\bin\Debug\BotExample.exe
+C:\Users\barclajx\BeatBots\Jnr\BotExample\bin\Debug\BotExample.pdb
+C:\Users\barclajx\BeatBots\Jnr\BotExample\obj\Debug\BotExample.exe
+C:\Users\barclajx\BeatBots\Jnr\BotExample\obj\Debug\BotExample.pdb

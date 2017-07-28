@@ -3,8 +3,8 @@
   <dsBotConfigTable>
     <Name>LOPPYBOT</Name>
     <Url>http://localhost:7000</Url>
-    <Enabled>true</Enabled>
-    <Status>Ok</Status>
+    <Enabled>false</Enabled>
+    <Status>Error</Status>
   </dsBotConfigTable>
   <dsBotConfigTable>
     <Name>MIRRORBOT</Name>
@@ -15,55 +15,31 @@
   <dsBotConfigTable>
     <Name>SWAPBOT</Name>
     <Url>http://localhost:7001</Url>
-    <Enabled>true</Enabled>
-    <Status>Ok</Status>
+    <Enabled>false</Enabled>
+    <Status>Error</Status>
   </dsBotConfigTable>
   <dsBotConfigTable>
     <Name>SUICIDEBOT</Name>
     <Url>http://localhost:7003</Url>
-    <Enabled>true</Enabled>
-    <Status>Ok</Status>
+    <Enabled>false</Enabled>
+    <Status>Error</Status>
   </dsBotConfigTable>
   <dsBotConfigTable>
     <Name>STUPIDBOT</Name>
     <Url>http://localhost:5998</Url>
-    <Enabled>true</Enabled>
-    <Status>Ok</Status>
+    <Enabled>false</Enabled>
+    <Status>Error</Status>
   </dsBotConfigTable>
   <dsBotConfigTable>
     <Name>CHASEBOT</Name>
     <Url>http://localhost:7002</Url>
-    <Enabled>true</Enabled>
-    <Status>Ok</Status>
-  </dsBotConfigTable>
-  <dsBotConfigTable>
-    <Name>Some Bastard</Name>
-    <Url>http://10.63.204.32:5999</Url>
-    <Enabled>true</Enabled>
-    <Status>Ok</Status>
-  </dsBotConfigTable>
-  <dsBotConfigTable>
-    <Name>Stewata</Name>
-    <Url>http://10.185.61.15:5999</Url>
-    <Enabled>true</Enabled>
-    <Status>Ok</Status>
-  </dsBotConfigTable>
-  <dsBotConfigTable>
-    <Name>ILOVEBIGBOTSANDICANNOTLIE</Name>
-    <Url>http://10.185.61.78:5999</Url>
-    <Enabled>true</Enabled>
+    <Enabled>false</Enabled>
     <Status>Error</Status>
   </dsBotConfigTable>
   <dsBotConfigTable>
-    <Name>IDIOTBOT</Name>
-    <Url>http://10.185.61.168:5999</Url>
-    <Enabled>true</Enabled>
+    <Name>Bot</Name>
+    <Url>http://localhost:5999</Url>
+    <Enabled>false</Enabled>
     <Status>Error</Status>
-  </dsBotConfigTable>
-  <dsBotConfigTable>
-    <Name>BOTICELLI</Name>
-    <Url>http://10.185.62.45:5999</Url>
-    <Enabled>true</Enabled>
-    <Status>Ok</Status>
   </dsBotConfigTable>
 </NewDataSet>

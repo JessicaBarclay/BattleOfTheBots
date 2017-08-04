@@ -1,0 +1,9 @@
+C:\Users\saidnx\workspace\side-projects\BattleOfTheBots\Jnr\BotAITests\obj\Release\BotAITests.csprojResolveAssemblyReference.cache
+C:\Users\saidnx\workspace\side-projects\BattleOfTheBots\Jnr\BotAITests\bin\Release\BotAITests.dll
+C:\Users\saidnx\workspace\side-projects\BattleOfTheBots\Jnr\BotAITests\bin\Release\BotAITests.pdb
+C:\Users\saidnx\workspace\side-projects\BattleOfTheBots\Jnr\BotAITests\bin\Release\BotExample.exe
+C:\Users\saidnx\workspace\side-projects\BattleOfTheBots\Jnr\BotAITests\bin\Release\nunit.framework.dll
+C:\Users\saidnx\workspace\side-projects\BattleOfTheBots\Jnr\BotAITests\bin\Release\BotExample.pdb
+C:\Users\saidnx\workspace\side-projects\BattleOfTheBots\Jnr\BotAITests\bin\Release\nunit.framework.xml
+C:\Users\saidnx\workspace\side-projects\BattleOfTheBots\Jnr\BotAITests\obj\Release\BotAITests.dll
+C:\Users\saidnx\workspace\side-projects\BattleOfTheBots\Jnr\BotAITests\obj\Release\BotAITests.pdb

@@ -4,7 +4,7 @@
     <MaxRounds>100</MaxRounds>
     <TotalPoints>50</TotalPoints>
     <Dynamite>10</Dynamite>
-    <Include>true</Include>
+    <Include>false</Include>
   </GameConfigTable>
   <GameConfigTable>
     <MaxRounds>100</MaxRounds>
@@ -28,7 +28,7 @@
     <MaxRounds>300</MaxRounds>
     <TotalPoints>150</TotalPoints>
     <Dynamite>75</Dynamite>
-    <Include>false</Include>
+    <Include>true</Include>
   </GameConfigTable>
   <GameConfigTable>
     <MaxRounds>50</MaxRounds>

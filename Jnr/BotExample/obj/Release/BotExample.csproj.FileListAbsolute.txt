@@ -11,3 +11,10 @@ C:\Users\barclajx\BeatBots\Jnr\BotExample\bin\Release\BotExample.exe
 C:\Users\barclajx\BeatBots\Jnr\BotExample\bin\Release\BotExample.pdb
 C:\Users\barclajx\BeatBots\Jnr\BotExample\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\barclajx\BeatBots\Jnr\BotExample\obj\Release\BotExample.csprojResolveAssemblyReference.cache
+C:\Users\saidnx\workspace\side-projects\BattleOfTheBots\Jnr\BotExample\obj\Release\BotExample.csprojResolveAssemblyReference.cache
+C:\Users\saidnx\workspace\side-projects\BattleOfTheBots\Jnr\BotExample\obj\Release\BotExample.exe
+C:\Users\saidnx\workspace\side-projects\BattleOfTheBots\Jnr\BotExample\obj\Release\BotExample.pdb
+C:\Users\saidnx\workspace\side-projects\BattleOfTheBots\Jnr\BotExample\bin\Release\BotExample.exe.config
+C:\Users\saidnx\workspace\side-projects\BattleOfTheBots\Jnr\BotExample\bin\Release\BotExample.exe
+C:\Users\saidnx\workspace\side-projects\BattleOfTheBots\Jnr\BotExample\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\saidnx\workspace\side-projects\BattleOfTheBots\Jnr\BotExample\bin\Release\BotExample.pdb

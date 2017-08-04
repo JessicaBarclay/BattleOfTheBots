@@ -79,7 +79,7 @@ namespace BotExample
             }
             else
             {
-                return GetRandomResponse();
+                return GetRandomResponse().ToString();
             }
         } 
 
@@ -111,7 +111,7 @@ namespace BotExample
             }
         }
 
-        internal static string GetRandomResponse()
+        internal static Move GetRandomResponse()
         {
             Console.WriteLine(opponentsDynamiteCount);
 
@@ -135,24 +135,24 @@ namespace BotExample
             {
                 case 0:
                     {
-                        return "ROCK";
+                        return Move.Parse("ROCK");
                     }
                 case 1:
                     {
-                        return "SCISSORS";
+                        return Move.Parse("SCISSORS");
                     }
                 case 2:
                     {
-                        return "PAPER";
+                        return Move.Parse("PAPER");
                     }
                 case 3:
                 {
-                    return "WATERBOMB";
+                    return Move.Parse("WATERBOMB");
                 }
                 default:
                     {
                         _ourDynamite--;
-                        return "DYNAMITE";
+                        return Move.Parse("DYNAMITE");
                     }
             }
         }       

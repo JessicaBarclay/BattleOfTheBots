@@ -69,19 +69,38 @@ namespace BotExample
          *
          */ 
         internal static string GetMove()
-    
+
         {
-            Console.WriteLine(IsMirrorBot());
-            if (IsMirrorBot())
+                return CounterSuicideBot();
+        }
+
+        internal static string CounterSuicideBot()
+        {
+            switch (_lastOpponentsMove)
+            
             {
-                Console.WriteLine("IsMirrorBot");
-                return "PAPER";
+                case "PAPER":
+                {
+                    return "SCISSORS";
+                }
+                case "SCISSORS":
+                {
+                    return "ROCK";
+
+                }
+                case "DYNAMITE":
+                {
+                    return "WATERBOMB";
+                }
+                default:
+                {
+                    return "PAPER";
+                }
+
             }
-            else
-            {
-                return GetRandomResponse();
-            }
-        } 
+     
+        }
+             
 
         internal static bool IsMirrorBot()
         {
